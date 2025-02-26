@@ -1,0 +1,20 @@
+:h text-objects
+
+gd -> go definition
+Ctrl + t should take you back to the position where you called gd
+
+<leader>ca -> code actions from lsp
+
+K -> Check info of thing from lsp
+
+o -> input below
+O -> input above
+
+_ap -> around paragraph
+_aw -> around word
+
+delete also yanks
+
+__ yank/delete line
+
+
